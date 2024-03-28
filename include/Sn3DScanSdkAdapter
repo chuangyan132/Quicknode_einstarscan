@@ -1,0 +1,2 @@
+#include "sdk_adapter_global.h"
+#include "sdk_adapter.h"
